@@ -95,7 +95,3 @@ FAILED (failures=1)
 ```
 
 One of the test cases has been designed to fail intentionally.
-
-___
-
-That should just about cover everything...
